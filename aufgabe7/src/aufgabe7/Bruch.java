@@ -1,6 +1,6 @@
 package aufgabe7;
 
-import java.util.Arrays;
+
 /**
  * Bruch besteht aus Zaehler und Nenner.
  * @author RezaPurnama
@@ -68,7 +68,7 @@ public class Bruch {
 	/**
 	 * gcd ist die Abkurzung fuer "Great common divisor"
 	 * oder "Groesster Gemeinsamer Teiler".
-	 * Er ist die größte natürliche Zahl,
+	 * Er ist die grÃ¶ÃŸte natÃ¼rliche Zahl,
 	 * durch die sich zwei ganze Zahlen ohne Rest teilen lassen.
 	 * @param K ist die Zahl von Zaehler
 	 * @param M ist die Zahl von Nenner
@@ -132,7 +132,7 @@ public class Bruch {
 	}
 	
 	/**
-	 * Die Multiplikation natürlicher Zahlen entsteht durch 
+	 * Die Multiplikation natÃ¼rlicher Zahlen entsteht durch 
 	 * das wiederholte Addieren (Zusammenzaehlen) des gleichen Summanden
 	 * @param b Multiplikand ist zweite Bruch
 	 * @return e Produkt aus ersten Bruch und zweiten Bruch
